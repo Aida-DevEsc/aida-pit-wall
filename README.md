@@ -11,4 +11,4 @@ This is my learning portfolio — a collection of projects where I'm teaching my
 - Currently learning: Python, data analysis, basic AI
 
 ## Follow along
-I'll be adding a new project here roughly every week — check back!
+I'll be adding a new project here — check back!
